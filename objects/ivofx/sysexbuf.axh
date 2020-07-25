@@ -15,7 +15,7 @@
       </params>
       <attribs/>
    </obj>
-   <obj type="sysexbuffer" uuid="e485299b-eb91-40ec-bb57-1112cc32fd5b" name="sysexbuffer_1" x="602" y="280">
+   <obj type="ivofx/sysexbuffer" uuid="e485299b-eb91-40ec-bb57-1112cc32fd5b" name="sysexbuffer_1" x="616" y="280">
       <params/>
       <attribs>
          <spinner attributeName="sysexrate" value="60"/>
